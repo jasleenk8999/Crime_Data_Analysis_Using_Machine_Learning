@@ -178,3 +178,11 @@ Real-world public safety application
 
 This project is for academic and educational purposes.
 # Crime_Data_Analysis_Using_Machine_Learning
+```
+
+👥 Contributors
+
+Jasleen – ML model development, experimentation, optimization, and frontend support
+Girish Nalkar – Machine learning model training, data preprocessing, and frontend components
+Abhiram Nair – Backend architecture, API development, authentication, ML model integration, and frontend workflows
+Divyanshi – Backend development, database handling, API testing, and frontend feature implementation
